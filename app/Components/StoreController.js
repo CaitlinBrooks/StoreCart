@@ -2,7 +2,6 @@ import "./StoreService.js"
 
 // function updateItems() {
 //   let items = StoreService.getItems()
-//   draw the items to the page
 //   let template = ''
 //   for (let i = 0; i < items.length; i++) {
 //     const item = items[i];
@@ -13,5 +12,13 @@ import "./StoreService.js"
 //             </div>
 //             `
 //   }
+
+
+// {
+//   let result = StoreService.vend(foodIndex)
+//   if (result) {
+//     drawTotal(result.total)
+//     drawVend(result.img)
+
 
 console.log("hello from StoreController.js")
