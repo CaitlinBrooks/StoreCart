@@ -1,3 +1,3 @@
-import "./StoreController.js"
+import "../models/ShoppingCart"
 
 console.log("hello from StoreService.js")
